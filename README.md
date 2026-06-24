@@ -79,7 +79,7 @@ The right model depends on the deployment constraint:
 
 This is why benchmarking actual inference behavior is important for model right-sizing.
 
-###NEW 
+# NEW 
 # When Quantization Does Not Speed Up LLMs
 
 This is an experiment to understand **whether quantization actually improves LLM inference speed on real hardware**, or whether it mainly reduces memory while introducing runtime overhead.
