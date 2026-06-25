@@ -2,7 +2,7 @@
 
 ## When Quantization Does Not Speed Up LLMs....
 
-This is an experiment to understand **whether quantization actually improves LLM inference speed on real hardware**, or whether it mainly reduces memory while introducing runtime overhead.
+I did this experiment to understand **whether quantization actually improves LLM inference speed on real hardware**, or whether it mainly reduces memory while introducing runtime overhead.
 
 I profiled **Qwen2.5-0.5B-Instruct** on a **Tesla T4 GPU** to study a common ML systems assumption:
 
